@@ -1,2 +1,2 @@
-# rag-system-design
-My RAG system design
+# ai-system-design
+My AI system design
